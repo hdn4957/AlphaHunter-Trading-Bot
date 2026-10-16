@@ -1,1 +1,7 @@
-alpaca-py, ibapi, pandas, numpy, python-dotenv, matplotlib, flask
+alpaca-py
+ibapi
+pandas
+numpy
+python-dotenv
+matplotlib
+flask
